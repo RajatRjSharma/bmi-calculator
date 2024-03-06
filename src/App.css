@@ -6,7 +6,7 @@
 }
 
 .item {
-  height: 270px;
+  min-height: 270px;
   min-width: 280px;
   background-color: whitesmoke;
   box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
