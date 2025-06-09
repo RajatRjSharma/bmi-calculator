@@ -1,6 +1,6 @@
 {
   "name": "bmi-calculator",
-  "homepage": "https://bmi-calculator.rajatkumarsharma.com",
+  "_homepage": "https://bmi-calculator.rajatkumarsharma.com",
   "private": true,
   "version": "0.0.0",
   "type": "module",
